@@ -1,0 +1,5 @@
+interface Loopback100
+ description Interfaz de Backup Automático
+ ip address 1.1.1.1 255.255.255.255
+exit
+banner motd # Acceso restringido - Mantenimiento Programado #
